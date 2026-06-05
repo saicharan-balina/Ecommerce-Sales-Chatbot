@@ -366,7 +366,7 @@ export default function Home() {
               className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold rounded-xl hover:from-blue-700 hover:to-purple-700 transition-all duration-200 transform hover:scale-105 shadow-lg hover:shadow-xl"
             >
               <ChatBubbleLeftRightIcon className="w-5 h-5 mr-2" />
-              Start Shopping Now
+              Start  Shopping Now
               <ArrowRightIcon className="w-5 h-5 ml-2" />
             </button>
           </div>
