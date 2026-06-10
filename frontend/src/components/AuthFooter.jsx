@@ -18,7 +18,7 @@ const AuthFooter = () => {
                 <h3 className="text-xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
                   NexTechAI
                 </h3>
-                <p className="text-xs text-gray-500 -mt-1">Smart Shopping Assistant</p>
+                <p className="text-xs text-gray-500 -mt-1">Smart  Shopping Assistant</p>
               </div>
             </div>
             <p className="text-gray-600 mb-4 max-w-md">
